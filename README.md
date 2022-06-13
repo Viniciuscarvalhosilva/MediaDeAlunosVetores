@@ -15,3 +15,5 @@ Deseja se saber quantos alunos tem em cada sala de aula, a media dos alunos e qu
 		exibir sala com numero de alunos acima da media
 	fim enquanto
 Fim
+
+![fluxograma ](https://user-images.githubusercontent.com/64235507/173259835-c9c6ed27-983b-4569-abf9-6a066961c6e7.png)
